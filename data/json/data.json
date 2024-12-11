@@ -1,0 +1,163 @@
+{
+  "hero":[
+    {
+      "title":"Nikmati Penjelajahan Selera dan Rasa Tanpa Batas hanya di PustaEats!",
+      "subtitle":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."      
+    }
+  ],
+  "layanan": [
+    {
+      "logo": "./images/icons/layanan/lux.svg",
+      "judul": "Pencarian Restoran",
+      "subjudul": "Jelajahi Informasi Restoran Berdasarkan Kriterianya",
+      "linkTitle": "Cari Resto",
+      "linkRef": "#"
+    },
+    {
+      "logo": "./images/icons/layanan/like.svg",
+      "judul": "Ulasan",
+      "subjudul": " Bagikan Ulasan terkait restoran yang telah anda kunjungi",
+      "linkTitle": "Tulis Ulasan",
+      "linkRef": "#"
+    },
+    {
+      "logo": "./images/icons/layanan/calender.svg",
+      "judul": "Reservasi",
+      "subjudul": "Lakukan Reservasi meja secara online pada restoran favorit Anda",
+      "linkTitle": "Pesan",
+      "linkRef": "#"
+    },
+    {
+      "logo": "./images/icons/layanan/toa.svg",
+      "judul": "Informasi",
+      "subjudul": "Jelajahi Informasi Restoran Berdasarkan Kriterianya",
+      "linkTitle": "Eksplor",
+      "linkRef": "#"
+    }
+  ],
+  "daftar_buku_populer": [
+    {
+      "ID_books": "Pusta001",
+      "judul": "Fur Immer Dein Ian",
+      "url_gambar": "https://cdn.gramedia.com/uploads/items/img20220928_15154296.jpg",
+      "sinopsis": "Pernahkah kamu merasa terbebani oleh kenyataan bahwa kamu harus menyembunyikan perasaanmu demi menjaga kedekatan sebagai teman? Itulah yang dirasakan Atika dan Damian. Meskipun mereka berada dalam jarak yang dekat, mereka terpaksa menahan perasaan cinta mereka agar tidak membuat suasana menjadi tidak nyaman. Meskipun mencoba untuk bersikap biasa, mereka menyadari bahwa setiap kata dan gerakan yang dilakukan oleh satu sama lain memiliki daya tarik yang kuat. Meskipun bertemu secara tak terduga, mereka menyadari bahwa mereka berdua berharap untuk sesuatu yang lebih. Namun, keduanya merasa sulit untuk membuka hati mereka sepenuhnya. Ketika mereka berada di bawah langit yang dingin di Munchen, pertanyaan tentang kemungkinan menyatukan hati mereka menjadi semakin tidak pasti.",
+      "link_buku": "#book1"
+    },
+    {
+      "ID_books": "Pusta002",
+      "judul": "Majnun",
+      "url_gambar": "https://cdn.gramedia.com/uploads/items/img20220924_13195778.jpg",
+      "sinopsis": "Majnun merupakan sebuah kisah yang mencakup tema cinta, persahabatan, serta sebuah pengingat akan sejarah yang sering dilupakan. Novel ini juga mengangkat isu-isu tentang kebebasan dan ketidakadilan. Cerita ini bergerak di antara bayang-bayang kenangan dan luka masa lalu para karakternya, yang terjalin dengan sejarah negara yang pernah diwarnai oleh kolonialisme, represi politik, dan konflik agama. Dalam novel ini, Anton Kurnia mengajak pembaca untuk menyelami dunia kegelapan dan kegilaan cinta, yang disertai oleh simfoni musik Carmina Burana yang menggambarkan tragedi kemanusiaan. Kisah Majnun membawa kita ke dalam aliran air cinta yang tidak terkendali. Anton Kurnia secara lincah memadukan dua cerita cinta legendaris, Laila-Majnun dan Yusuf-Zulaikha, dengan konteks zaman sekarang. Namun, Majnun bukan hanya tentang cinta. Anton juga menyelipkan mitos dari budaya Sunda-Jawa dan berbagai isu sosial-politik, menciptakan permainan intertekstual yang menarik bagi pembaca.",
+      "link_buku": "#book2"
+    },
+    {
+      "ID_books": "Pusta003",
+      "judul": "Where Stories Begin",
+      "url_gambar": "https://cdn.gramedia.com/uploads/items/9786230035463_cover_where_stories.jpg",
+      "sinopsis": "Where Stories Begin adalah sebuah antologi cerpen yang disusun oleh Redaksi Novel Elex Media dari hasil perlombaan yang diadakan oleh Wacaku. Antologi ini memuat cerita pendek dari sepuluh penulis yang terpilih dari perlombaan yang diselenggarakan pada tahun 2022. Karya-karya dari Stanza Alquisha, Maria Perdana, Robin Wijaya, Arata Kim, Kanigara, Meera, Nureesh Vhalega, Ratifa Mazari, Tian Topandi, dan Zaidatul Uyun Akrami menghadirkan cerita-cerita yang menunjukkan bahwa cinta tidak selalu membawa kebahagiaan. Mereka menggambarkan bahwa cinta tidak selalu seindah dan sesederhana yang dibayangkan, tetapi juga bisa penuh dengan penderitaan dan kekecewaan. Karena itulah cerita-cerita ini merupakan awal dari segala cerita...",
+      "link_buku": "#book3"
+    },
+    {
+      "ID_books": "Pusta004",
+      "judul": "Sagaras",
+      "url_gambar": "https://cdn.gramedia.com/uploads/items/sagaras.jpeg",
+      "sinopsis": "Sagaras adalah buku ke-13 dari serial Bumi yang mengungkap misteri orang tua Ali. Ali telah berusaha bertahun-tahun untuk mengungkap misteri tersebut. Bersama sahabatnya, Paib dan Seli, mereka tidak akan menyerah. Namun, misteri itu semakin rumit ketika mereka dihadapkan pada tembok kokoh SagaraSe. Kini, mereka harus bertarung melawan Ksatria Sagaras dalam lima ronde hidup-mati. Tetapi, kebahagiaan menanti di halaman terakhir buku ini.",
+      "link_buku": "#book4"
+    },
+    {
+      "ID_books": "Pusta005",
+      "judul": "Layangan Putus",
+      "url_gambar": "https://cdn.gramedia.com/uploads/items/9786020729091_AYANGAN_PUTUS_dpn.jpg",
+      "sinopsis": "Layangan Putus mengisahkan perjalanan Kinan, seorang gadis remaja polos dari desa, yang menemukan cinta di kota besar yang berbeda dari tempat asalnya. Kehidupan Kinan berubah setelah bertemu dengan Aris, seorang lelaki tangguh yang memperkenalkannya pada dunia yang baru. Meskipun awalnya bermimpi untuk menyelesaikan pendidikannya tepat waktu, Kinan menemukan dirinya terjebak dalam ikatan pernikahan dengan Aris. Meskipun awalnya setia mendampingi Aris dalam membangun mimpi mereka, Kinan harus menghadapi pilihan sulit yang mengubah pandangannya tentang kehidupan.",
+      "link_buku": "#book5"
+    },
+    {
+      "ID_books": "Pusta006",
+      "judul": "Atomic Habits",
+      "url_gambar": "https://jamesclear.com/wp-content/uploads/2023/05/atomic-habits-dots.png",
+      "sinopsis": "Atomic Habits adalah buku karya James Clear yang mendapat banyak rekomendasi dari pembaca. Buku ini membahas tentang kebiasaan-kebiasaan kecil yang berdampak besar dalam kehidupan seseorang. James Clear memaparkan pandangannya tentang perubahan nyata yang berasal dari keputusan-keputusan kecil yang kita ambil setiap hari. Buku ini memberikan panduan praktis untuk membangun dan mempertahankan kebiasaan baik serta mengubah kebiasaan buruk. Dengan kisah-kisah inspiratif dan tips sederhana, Atomic Habits menjadi solusi bagi mereka yang ingin mengubah hidup menjadi lebih positif dan bermakna.",
+      "link_buku": "#book6"
+    }
+  ],
+  "aboutUs": [
+    {
+      "title": "Tentang Kami",
+      "img_src": "./images/founder.png",
+      "description": " didirikan oleh Ahmad Rifqi Maulana atau yang akrab disapa Mas Rifqi, merupakan sebuah platform daring pencari kuliner yang dirancang untuk memudahkan pengguna menemukan restoran terbaik di sekitar mereka. Aplikasi ini tidak hanya menampilkan katalog restoran terdekat, tetapi juga menyediakan berbagai fitur unggulan yang mendukung pengalaman kuliner pengguna, seperti reservasi, pemesanan makanan, dan akses informasi lengkap tentang restoran serta menu yang ditawarkan. <br><br>PustaEats bukan hanya sekadar sebuah platform, tetapi juga sebuah komitmen untuk membuka pintu kemudahan kuliner bagi semua orang. Dengan semangat yang menggebu-gebu, Ahmad Rifqi Maulana dan tim PustaEats bergerak maju, menjadikan kemudahan memesan makanan sebagai hak yang dapat dinikmati oleh semua kalangan."
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Bring Your Phone Cafe",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/41",
+      "city": "Medan",
+      "rating": 4.6
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Run The Gun",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/07",
+      "city": "Bali",
+      "rating": 4.6
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Pangsit Express",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/29",
+      "city": "Ternate",
+      "rating": 4.8
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Ducky Duck",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+      "city": "Malang",
+      "rating": 4.7
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Kafein",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/40",
+      "city": "Bali",
+      "rating": 3.8
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Makan mudah",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/08",
+      "city": "Malang",
+      "rating": 4.6
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Saya Suka",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/32",
+      "city": "Surabaya",
+      "rating": 3.6
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Gigitan Cepat",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/45",
+      "city": "Aceh",
+      "rating": 4
+    },
+    {
+      "id": "wf5o19xhxxkcowlqdz",
+      "name": "Fairy Cafe",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://restaurant-api.dicoding.dev/images/medium/04",
+      "city": "Malang",
+      "rating": 3.9
+    }
+  ]
+}
